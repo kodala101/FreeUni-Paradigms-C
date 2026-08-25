@@ -1,21 +1,10 @@
-MIT License
+Copyright (c) 2025 Luka Tasoshvili
 
-Copyright (c) 2026 Luka Tasoshvili
+The source code and solutions contained in this repository were written by the author as part of the Programming Paradigms course at the Free University of Tbilisi (FreeUni), utilizing starter assignment materials originally developed by Stanford University (CS107).
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+PERMITTED USES:
+Permission is granted to view, inspect, and evaluate the code in this repository strictly for personal demonstration, peer review and job recruitment/portfolio assessment purposes.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+RESTRICTIONS:
+1. No section of this repository may be copied, modified, redistributed, hosted, or republished in any form without explicit written permission from the author.
+2. Under no circumstances may current or future students at FreeUni, Stanford University, or any other institution submit, adapt or copy any code from this repository for academic credit. Doing so violates academic integrity policies.
