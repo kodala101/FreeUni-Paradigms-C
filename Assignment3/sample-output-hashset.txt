@@ -1,0 +1,83 @@
+
+
+ ------------------------- Starting the HashTable test
+Here is the unordered contents of the table:
+Character h occurred  164 times
+Character i occurred  185 times
+Character k occurred   15 times
+Character l occurred  122 times
+Character m occurred   67 times
+Character n occurred  263 times
+Character o occurred  240 times
+Character p occurred   82 times
+Character q occurred   64 times
+Character r occurred  319 times
+Character s occurred  289 times
+Character t occurred  406 times
+Character u occurred  206 times
+Character v occurred   35 times
+Character w occurred   15 times
+Character x occurred    1 times
+Character y occurred   68 times
+Character z occurred    3 times
+Character a occurred  214 times
+Character b occurred   44 times
+Character c occurred  279 times
+Character d occurred  111 times
+Character e occurred  500 times
+Character f occurred  146 times
+Character g occurred   13 times
+
+Here are the trials sorted by char: 
+Character a occurred  214 times
+Character b occurred   44 times
+Character c occurred  279 times
+Character d occurred  111 times
+Character e occurred  500 times
+Character f occurred  146 times
+Character g occurred   13 times
+Character h occurred  164 times
+Character i occurred  185 times
+Character k occurred   15 times
+Character l occurred  122 times
+Character m occurred   67 times
+Character n occurred  263 times
+Character o occurred  240 times
+Character p occurred   82 times
+Character q occurred   64 times
+Character r occurred  319 times
+Character s occurred  289 times
+Character t occurred  406 times
+Character u occurred  206 times
+Character v occurred   35 times
+Character w occurred   15 times
+Character x occurred    1 times
+Character y occurred   68 times
+Character z occurred    3 times
+
+Here are the trials sorted by occurrence & char: 
+Character e occurred  500 times
+Character t occurred  406 times
+Character r occurred  319 times
+Character s occurred  289 times
+Character c occurred  279 times
+Character n occurred  263 times
+Character o occurred  240 times
+Character a occurred  214 times
+Character u occurred  206 times
+Character i occurred  185 times
+Character h occurred  164 times
+Character f occurred  146 times
+Character l occurred  122 times
+Character d occurred  111 times
+Character p occurred   82 times
+Character y occurred   68 times
+Character m occurred   67 times
+Character q occurred   64 times
+Character b occurred   44 times
+Character v occurred   35 times
+Character k occurred   15 times
+Character w occurred   15 times
+Character g occurred   13 times
+Character z occurred    3 times
+Character x occurred    1 times

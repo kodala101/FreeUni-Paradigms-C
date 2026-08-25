@@ -1,0 +1,30 @@
+ ------------------------- Starting the basic test...
+First, here is the alphabet: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+After append digits: ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+After sorting: 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Found 'J' in sorted array? Yes. How about unsorted? Yes.
+Found '$' in sorted array? No. How about unsorted? No.
+After lowercase every other letter: 0123456789aBcDeFgHiJkLmNoPqRsTuVwXyZ
+After insert dashes: 012-345-678-9aB-cDe-FgH-iJk-LmN-oPq-RsT-uVw-XyZ
+After deleting dashes: 0123456789aBcDeFgHiJkLmNoPqRsTuVwXyZ
+After adding and deleting to very end: 0123456789aBcDeFgHiJkLmNoPqRsTuVwXyZ
+After changing all s to *: 0123456789aBcDeFgHiJkLmNoPqR*TuVwXyZ
+
+------------------------- Starting the more advanced tests...
+Generating all of the numbers between 0 and 3021376 (using some number theory). [All done]
+Sorting all of those numbers. [Done]
+Confirming everything was properly sorted. [Yep, it's sorted]
+Erasing everything in the vector by repeatedly deleting the 100th-to-last remaining element (be patient).
+	[Okay, almost done... deleting the last 100 elements... and we're all done... whew!]
+
+
+------------------------- Starting the memory tests...
+Creating a vector designed to store dynamically allocated C-strings.
+Populating the char * vector with the question words.
+Mapping over the char * vector (ask yourself: why are char **'s passed to PrintString?!!)
+	why
+	how
+	where
+	what
+	who
+Finally, destroying the char * vector.
